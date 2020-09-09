@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "nameProduct": "AirPods",
+        "imgProduct": "http://localhost/simplon/img/alexandar-todov-d9WLUlWZ39g-unsplash.jpg",
+        "priceProduct": 99 
+    },
+
+    {
+        "id": 2,
+        "nameProduct": "Playstation 4",
+        "imgProduct": "http://localhost/simplon/shop-localstorage/img/norbert-levajsics-dUx0gwLbhzs-unsplash.jpg",
+        "priceProduct": 250
+    },
+
+    {
+        "id": 3,
+        "nameProduct": "HD Headphones Bluetooth",
+        "imgProduct": "http://localhost/simplon/shop-localstorage/img/malte-wingen-PDX_a_82obo-unsplash.jpg",
+        "priceProduct": 45
+    },
+
+    {
+        "id": 4,
+        "nameProduct": "Apple Pack",
+        "imgProduct": "http://localhost/simplon/shop-localstorage/img/alexandar-todov-d9WLUlWZ39g-unsplash.jpg",
+        "priceProduct": 240
+    },
+
+    {
+        "id": 5,
+        "nameProduct": "Air Jordan 7",
+        "imgProduct": "http://localhost/simplon/img/jeremy-alford-0FX3HpAWN2s-unsplash.jpg",
+        "priceProduct": 150
+    },
+
+    {
+        "id": 6,
+        "nameProduct": "Nike Air T",
+        "imgProduct": "http://localhost/simplon/shop-localstorage/img/jeremy-alford-68_PLKkF_ww-unsplash.jpg",
+        "priceProduct": 135
+    }
+]
